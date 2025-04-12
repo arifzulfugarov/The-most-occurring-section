@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "b3task", "b3task.csproj", "{68B50459-A554-4B15-945D-0B2572D80E52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B50459-A554-4B15-945D-0B2572D80E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B50459-A554-4B15-945D-0B2572D80E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B50459-A554-4B15-945D-0B2572D80E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B50459-A554-4B15-945D-0B2572D80E52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E3F6C18-AB74-4AA9-AEE3-6354A6D5FAA0}
+	EndGlobalSection
+EndGlobal
